@@ -27,4 +27,4 @@ Nevýhodou je pracné vytváření builderu u větších tříd
 
 ### Zdroje
 
-#### [refactoring.guru](ttps://refactoring.guru/design-patterns)
+#### [refactoring.guru](https://refactoring.guru/design-patterns)
